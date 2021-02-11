@@ -34,4 +34,4 @@ async def randommaker(ctx):
 	await ctx.send(f'https://en.wikipedia.org{maker.WikiLink}')
 
 #Personal Token
-client.run('MzA0NzY3MzgwNTUzNDY1ODU2.WPlKvQ.lhqDUlkexhQlv2w8ldi8R9PV3Tg')
+client.run(CLIENT_TOKEN)
